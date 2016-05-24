@@ -1,4 +1,4 @@
-# WCF RestAPI Service
+# WCF REST API Service
 
 This project demonstrates an eays to maintain REST API service to query sql databases and return data as json or xml.
 Adventure Works 2014 Database provided by Microsoft is used for demonstration purpose. 
